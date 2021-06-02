@@ -8,5 +8,4 @@ In the project directory, you can run:
 
 ### `getting started`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+lire la video VSCode + ESLint + Prettier. Comment bien configurer le tout sur youtube de la chaine Dev Theory
