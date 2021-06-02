@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true }, 
+  "editor.formatOnSave": true, 
+  "eslint.alwaysShowStatus": true, 
+  "files.autoSave": "onFocusChange",
+  "eslint.run": "onType"
+}
